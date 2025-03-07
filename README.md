@@ -9,5 +9,5 @@
 - ⚡ Fun fact: **I love discovering patterns in data that drive real-world impact!**  
 
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/sujin-arin-park)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sujin-arin-park/]
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Sujin-Arin-DataWorld)  
